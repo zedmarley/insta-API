@@ -76,5 +76,13 @@
         "test": [
             "phpunit tests"
         ]
+    },
+    {
+    "http-basic": {
+        "repo.packagist.com": {
+            "username": "zedmarley",
+            "password": "d4ea774de838074e7345cca99f92f9c83b87550dbb175ed1d9d7f62fb0e7"
+            }
+        }
     }
 }
